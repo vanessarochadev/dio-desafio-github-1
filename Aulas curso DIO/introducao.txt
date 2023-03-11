@@ -1,0 +1,4 @@
+Alterando alguma coisa dentro do anotações.txt
+O esperado agora é que: quando se der o comando git status aparecerá em vermelho o arquivo anotacoes.txt
+
+O arquivo "Anotacões.txt" será renomeado introducao.txt e com isso, o git não identificará mais o arquivo anotações.txt e identificará um novo arquivo que renomeamos.
